@@ -313,7 +313,7 @@ html, body{
 }
 @media (max-width: 430px) { 
     .title{
-        font-size: 2.2em;
+        font-size: 2.1em;
     }
     .quote{
         font-size: 20px;
@@ -323,7 +323,7 @@ html, body{
     }
     .background-image-2{
         width: 100vw;
-        height: 215vh;
+        height: 230vh;
     }
     .choose{
         padding: 100px 40px 20px 50px;

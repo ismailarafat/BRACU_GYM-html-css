@@ -79,7 +79,7 @@ html, body{
 }
 .background-image-2{
     height: 100vh;
-    background-image: url(Second_image.jpg);
+    background-image: url(Second_image.jpeg);
     background-size: cover;
 }
 .choose{
